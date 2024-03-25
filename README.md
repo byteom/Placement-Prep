@@ -42,7 +42,7 @@ Welcome to the Placement Preparation Roadmap! This guide is designed to help you
 - Dive deeper into algorithm optimization techniques like divide and conquer, greedy algorithms, and backtracking.
 - Practice solving challenging problems that require advanced algorithmic techniques.
 
-### 7. Database Management Systems (DBMS)
+### 7. [Database Management Systems (DBMS)](#https://github.com/byteom/Placement-Prep/blob/main/Operating%20System.txt)
 - Study database concepts, normalization, SQL queries, and database design principles.
 - Practice writing complex SQL queries and understand database indexing and optimization.
 
