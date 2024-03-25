@@ -1,0 +1,7 @@
+DBMS placement series == https://www.youtube.com/playlist?list=PLDzeHZWIZsTpukecmA2p5rhHM14bl2dHU
+
+DBMS == https://www.youtube.com/playlist?list=PLBlnK6fEyqRi_CUQ-FXxgzKQ1dwr_ZJWZ
+
+DBMS oneshot == https://youtu.be/dl00fOOYLOM?si=FX8MJvyFveBfPhbZ
+
+DBMS GFG == https://www.geeksforgeeks.org/dbms/?ref=footer
